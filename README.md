@@ -25,22 +25,23 @@ Clone the repository:
 Follow these steps to set up and run the Django CSV Analysis App on your local machine:
 
 1. 
-git clone https://github.com/username/repository.git
+git clone https://github.com/krushna27/Django-based-web-application.git
+
 cd repository
 
-2.
+3.
 create Virtual environment
 activate environment
 
-3.
+4.
 Install dependencies:
 pip install pandas numpy matplotlib seaborn
 
-4. 
+5. 
 apply migrate
 python manage.py migrate
 
-5.
+6.
 run the server
 python manage.py runserver
 
